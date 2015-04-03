@@ -1,0 +1,10 @@
+{
+  "name": "NodeJSRouter",
+  "version": "0.0.0",
+  "description": "NodeJSRouter",
+  "main": "server.js",
+  "author": {
+    "name": "berts",
+    "email": ""
+  }
+}
